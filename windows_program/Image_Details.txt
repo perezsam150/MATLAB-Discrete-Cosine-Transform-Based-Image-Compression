@@ -1,0 +1,4 @@
+Source Image SNR: 10.93
+Compressed Image SNR: 10.95
+Percent Error: 0.11 %
+Compression Ratio: 1277.52 %
